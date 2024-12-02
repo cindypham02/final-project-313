@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "CAST Coffee Shop",
+      "description": "A collaborative class project showcasing coffee drinks through a dynamic and engaging website ",
+      "technologies": ["JavaScript", "EJS", "CSS"],
+      "link": "https://github.com/anaortez23/CAST-coffee-shop",
+      "date": "9/29/24"
+    },
+    {
+      "id": 2,
+      "name": "Showfolio",
+      "description": "A personal portfolio showcasing the concerts I've attended, combining engaging storytelling with a modern design.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "link": "https://github.com/cindypham02/showfolio",
+      "date": "11/10/24"
+    },
+    {
+      "id": 3,
+      "name": "Candy Store Game",
+      "description": "A fun, interactive site that displays a variety of candies along with their details.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "link": "https://github.com/cindypham02/candy-store-game",
+      "date": "10/27/24"
+    }
+  ]
+  
